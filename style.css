@@ -9,7 +9,7 @@ body {
 }
 
 /* Structure */
-#wrapper { background-color: #FFF; margin: 0 auto; max-width: 100%; width: 800px; }
+#wrapper { background-color: #FFF; margin: 0 auto; max-width: 100%; width: 1200px; }
 
 #header { padding: 1em 1.5em 0.5em; }
     h1 { font-size: 3em; }
@@ -22,15 +22,19 @@ body {
         a:visited {color: #9740CF;}
         a:hover {color: #CF4078;}
 
-    .fader-container { margin: 2.5em -1.5em; width: calc(100% + 3em); }
-        .fader { float: left; padding-bottom: calc(33.33% * 19/25); position: relative; width: 33.33%; }
-        .fader:nth-child(3) { float: none; overflow: hidden; width: auto; }
-            .fader img { height: 100%; position: absolute; width: 100%; }
-                .fader img.active {z-index: 2;}
-                .fader img.inactive {z-index: 1;}
+    .games-container { margin: 0 -1.5em }
 
-    .sprites-line { margin: 1.25em 0 0; text-align: center; }
-        .sprites-line img + img {margin: 0 0 0 4em;}
+    .game { float: left; text-align: center; width: 240px; height: 250px;}
+        .game a { display: inline-block; color: inherit; text-decoration: none; width: 100%; height: 100%; }
+        .game a:hover {background-color: #eee; }
+        .game h3 { font-weight: normal; font-size: 1.25em; padding: 0.25em 0 0; }
+        .game h4 { font-weight: normal; padding-top: 0.25em; }
+        .game img { padding: 1em 0 0; }
+
+    .games-container + p { margin-top: 1.25em; }
+    p + .games-container { margin-top: 1.25em; }
+
+    .clearboth {clear: both;}
 
 #footer { background-color: #E9E9E9; border-top: 1px solid black; padding: 0.5em; }
 
