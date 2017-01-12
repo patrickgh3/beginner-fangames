@@ -1,4 +1,4 @@
-%%%1
+%%%
 I wanna be the 8possible
 A spiritual journey through 100+ floors
 images/screenshots/8possible.png
@@ -9,19 +9,29 @@ A fun romp with lots of variety
 images/screenshots/zerogame.png
 http://www.mediafire.com/file/birgfjreco3msfg/I+wanna+be+the+Zero+Game.zip
 
-%%%2
+I wanna be the Animus
+Dream-like quest
+images/screenshots/placeholder.png
+https://www.axfc.net/u/3237283
+
+%%%
 I wanna wanna
 A short but super-sweet troll game
 images/screenshots/wannawanna.png
 http://www.mediafire.com/file/h46epjy4oljl3xo/I+wanna+wanna.zip
 
-%%%3
+%%%
 I wanna be the MU-GEEEEEEEEE
 Nice needle with retro graphics
 images/screenshots/mugee.png
 https://www.axfc.net/u/2747458
 
-%%%4
+%%%
+For My Valentine
+Romantic and epic avoidance
+images/screenshots/placeholder.png
+http://www.mediafire.com/file/4u9uz3vycl3l4cu/For+my+Valentine+1.1.rar
+
 I wanna use Snow Magic
 Cute and well-made avoidance
 images/screenshots/snowmagic.png

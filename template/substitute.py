@@ -1,5 +1,5 @@
-# Reads game info from a txt file, and substitutes proper html into
-# a template HTML file.
+# Generates index.html by reading a .txt of games and substituting in
+# some html corresponding to each game.
 
 import sys
 import os
@@ -18,41 +18,42 @@ htmlTemplate = '''
           </div>'''
 
 # Read input file to construct sections data structure
-with open(inputFile) as f:
-    sections = [[]]
-    sectionIndex = 0
-    newgame = []
-    i = 0
+sections = []
+sectionIndex = -1
 
+def htmlFromGame(game):
+    return htmlTemplate.format(
+            name=game[0], tagline=game[1],
+            image=game[2], link=game[3])
+
+# Read input file line by line
+with open(inputFile) as f:
     for line in f:
+
         line = line[:-1] # strip newline
         
-        # %%% line moves to new section
         if line[0:3] == sectionMarker:
-            sectionIndex += 1
+            # %%% line moves to new section
             sections.append([])
-        # blank line moves to new game
+            sectionIndex += 1
+            game = []
         elif line == '':
-            sections[sectionIndex].append(newgame)
-            newgame = []
-        # any other line adds to current game
+            # blank line stores the game and starts a new one
+            sections[sectionIndex].append(htmlFromGame(game))
+            game = []
         else:
-            newgame.append(line)
+            # any other line adds to current game
+            game.append(line)
 
-# Replace all game data arrays with html strings
-for i, section in enumerate(sections):
-    for i, game in enumerate(section):
-        section[i] = htmlTemplate.format(
-                name=game[0], tagline=game[1],
-                image=game[2], link=game[3])
-
-# Subsitute game html strings into target html
+# Get template data as one string
 with open(templateFile) as f:
     data = f.read()
 
-for section in sections[1:]:
+# Substitute all sections into the template data
+for section in sections:
     data = str.replace(data, sectionMarker, ''.join(section), 1)
 
+# Write substituted data out
 with open(outputFile, 'w') as f:
     f.write(data)
 
