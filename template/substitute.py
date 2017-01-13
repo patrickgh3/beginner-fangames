@@ -32,18 +32,21 @@ with open(inputFile) as f:
 
         line = line[:-1] # strip newline
         
-        if line[0:3] == sectionMarker:
+        if line == sectionMarker:
             # %%% line moves to new section
             sections.append([])
             sectionIndex += 1
             game = []
         elif line == '':
             # blank line stores the game and starts a new one
-            sections[sectionIndex].append(htmlFromGame(game))
-            game = []
+            # (if the game is not empty)
+            if len(game) > 0:
+                sections[sectionIndex].append(htmlFromGame(game))
+                game = []
         else:
-            # any other line adds to current game
-            game.append(line)
+            # any other non-comment line adds to current game
+            if line[0] != '#':
+                game.append(line)
 
 # Get template data as one string
 with open(templateFile) as f:

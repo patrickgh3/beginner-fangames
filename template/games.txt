@@ -1,39 +1,142 @@
 %%%
+# Adventure / Gimmick
+###########################
+
+I wanna be the Octophobia
+Conquer the 8 trials
+images/screenshots/octophobia.png
+https://onedrive.live.com/?cid=F0EEACB9016C73B1&id=F0EEACB9016C73B1%21131
+
+I wanna be the Dark Blue
+Introduction to many gimmicks
+images/screenshots/darkblue.png
+http://www.mediafire.com/file/2ocw2o5bk4cpay0/I+wanna+be+the+Dark+Blue+ver1.0.exe
+
+I wanna be the Little runner
+Classic beginner fangame
+images/screenshots/littlerunner.png
+http://www.mediafire.com/file/84j65pzcbs4339b/I+wanna+be+the+Little+runner.zip
+
+I wanna be the Aura
+A pleasant adventure
+images/screenshots/aura.png
+http://www.mediafire.com/file/mwq0z59sd027aip/I+wanna+be+the+Aura.zip
+
+I wanna be the Animus
+Dream-like quest
+images/screenshots/animus.png
+https://www.axfc.net/u/3237283
+
+I wanna be the Showdown
+Fangame inside a gameboy
+images/screenshots/showdown.png
+http://www.mediafire.com/file/hg2zxve926vdd6k/I+wanna+be+the+showdown+ver1.1.exe
+
+I wanna go the Spook House
+Spooky halloween climb
+images/screenshots/spookhouse.png
+http://www.mediafire.com/file/hjxk1oxof121t8s/I+wanna+go+the+Spook+House.zip
+
 I wanna be the 8possible
-A spiritual journey through 100+ floors
+Gradual descent into madness
 images/screenshots/8possible.png
 http://www.mediafire.com/file/bow4f622p4pv848/i+wanna+be+the+8+possible+Ver.1.8.rar
 
 I wanna be the Zero Game
-A fun romp with lots of variety
+Fun romp with lots of variety
 images/screenshots/zerogame.png
 http://www.mediafire.com/file/birgfjreco3msfg/I+wanna+be+the+Zero+Game.zip
 
-I wanna be the Animus
-Dream-like quest
-images/screenshots/placeholder.png
-https://www.axfc.net/u/3237283
+I wanna challenge 100 trials!!
+Cheerful 100 floor game
+images/screenshots/challenge100trials.png
+https://www.axfc.net/u/3294668.zip
+
 
 %%%
-I wanna wanna
-A short but super-sweet troll game
-images/screenshots/wannawanna.png
-http://www.mediafire.com/file/h46epjy4oljl3xo/I+wanna+wanna.zip
+# Needle
+######################
 
-%%%
 I wanna be the MU-GEEEEEEEEE
 Nice needle with retro graphics
 images/screenshots/mugee.png
 https://www.axfc.net/u/2747458
 
+I wanna be the Strongest Fairy
+Cirno needle + avoidance
+images/screenshots/strongestfairy.png
+https://drive.google.com/file/d/0B-8RD56QubORWXk0cEJVcDZ3T2s/view?usp=sharing
+
+I wanna play with Dangerous Toys
+Dark needle with shooting gimmicks
+images/screenshots/dangeroustoys.png
+https://dl.orangedox.com/cEN9WsSjS4nzJRb86r
+
+indigo needle
+Hitbox as player sprite
+images/screenshots/indigoneedle.png
+https://www.mediafire.com/folder/fc6bgul1uz9ao/indigo_needle
+
+I wanna be the Haru
+Japanese pop needle
+images/screenshots/haru.png
+http://www.mediafire.com/file/fp4xs22u4t07bc8/I+wanna+be+the+Haru.zip
+
 %%%
+# Avoidance
+#########################
 For My Valentine
-Romantic and epic avoidance
-images/screenshots/placeholder.png
+Romantic and epic
+images/screenshots/formyvalentine.png
 http://www.mediafire.com/file/4u9uz3vycl3l4cu/For+my+Valentine+1.1.rar
 
 I wanna use Snow Magic
-Cute and well-made avoidance
+Cute and well-produced
 images/screenshots/snowmagic.png
 http://www1.axfc.net/u/3394220
+
+I wanna eat the Rori girl
+Great easy avoidance
+images/screenshots/eattherorigirl.png
+http://ux.getuploader.com/Kefey_IWs/download/7/I+wanna+eat+the+Rori+Girl.zip
+
+I wanna clear the Easy Miku 2
+Easy avoidance with variety
+images/screenshots/easymiku2.png
+http://www.mediafire.com/file/xmybinafmr2a1wj/I+wanna+clear+the+Easy+Miku+2.zip
+
+I wanna Struggle Momentarily
+Western style avoidance
+images/screenshots/strugglemomentarily.png
+http://www.mediafire.com/file/3jn91cqqld5hf9k/I+Wanna+Struggle+Momentarily.rar
+
+
+%%%
+# Trap
+##################
+
+I wanna wanna
+:3
+images/screenshots/wannawanna.png
+http://www.mediafire.com/file/h46epjy4oljl3xo/I+wanna+wanna.zip
+
+I wanna eat the New Year!
+Cute hand drawn obstacles
+images/screenshots/eatthenewyear.png
+http://www.mediafire.com/file/5subxvpae91231h/I+wanna+eat+the+New+Year%21.zip
+
+I wanna fa trap
+Well-made booby traps
+images/screenshots/fatrap.png
+http://www.mediafire.com/file/kvjaax7f34ks831/I+wanna+fa+trap+ver1.03.zip
+
+I wanna be Fed up with path ;w;
+Clever trap game
+images/screenshots/fedupwithpath.png
+http://www1.axfc.net/u/3267433
+
+I wanna go the trap way
+Traditional trap-focused game
+images/screenshots/gothetrapway.png
+http://www.mediafire.com/file/ntafax2iixnofb8/I+wanna+go+the+trap+way.rar
 
