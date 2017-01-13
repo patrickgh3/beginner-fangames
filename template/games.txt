@@ -126,7 +126,7 @@ images/screenshots/eatthenewyear.png
 http://www.mediafire.com/file/5subxvpae91231h/I+wanna+eat+the+New+Year%21.zip
 
 I wanna fa trap
-Well-made booby traps
+Well-laid booby traps
 images/screenshots/fatrap.png
 http://www.mediafire.com/file/kvjaax7f34ks831/I+wanna+fa+trap+ver1.03.zip
 
@@ -139,4 +139,33 @@ I wanna go the trap way
 Traditional trap-focused game
 images/screenshots/gothetrapway.png
 http://www.mediafire.com/file/ntafax2iixnofb8/I+wanna+go+the+trap+way.rar
+
+%%%
+# Challenge
+##################
+
+I wanna get Cultured
+Classic western medley
+images/screenshots/getcultured.png
+http://www.mediafire.com/file/7dbvctkvd1idzxl/I+wanna+Get+Cultured+ver1.0.7.zip
+
+I wanna find my Destiny
+Truly epic adventure
+images/screenshots/findmydestiny.png
+http://www.mediafire.com/file/ehfm6tdy3c8334c/I+wanna+find+my+destiny+v1.01.rar
+
+I wanna be the Co-op
+Multiplayer adventure
+images/screenshots/co-op.png
+http://futuroueb.free.fr/IWBTC/
+
+I wanna kill the Guy
+Old-school classic
+images/screenshots/killtheguy.png
+http://www.mediafire.com/file/mzs1u7npic9ch3u/IWKTG+v.052.zip
+
+I wanna run the Marathon
+Popular video game worlds
+images/screenshots/runthemarathon.png
+http://cwpat.me/i-wanna-run-the-marathon-download
 
