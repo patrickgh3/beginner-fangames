@@ -52,6 +52,21 @@ Cheerful 100 floor game
 images/screenshots/challenge100trials.png
 http://www.mediafire.com/file/a1p79ivkroico5j/I_wanna_challenge_100_trials%21%21_Reupload.zip
 
+I wanna Jerryfish
+Adventure with production value
+images/screenshots/jerryfish.png
+https://cwpat.me/gamefiles/beginner-reuploads/I%20wanna%20Jerryfish%20Reupload.zip
+
+I wanna Love the Winter 2
+Winter themed adventure
+images/screenshots/lovethewinter2.png
+https://cwpat.me/gamefiles/beginner-reuploads/IWLTWinter2%20Reupload.zip
+
+I wanna be the Machinary
+Short and very creative adventure
+images/screenshots/machinary.png
+https://cwpat.me/gamefiles/beginner-reuploads/I%20wanna%20be%20the%20Machinary%20Ver1.2%20Reupload.zip
+
 
 %%%
 # Needle
@@ -67,20 +82,43 @@ Cirno needle + avoidance
 images/screenshots/strongestfairy.png
 https://drive.google.com/file/d/0B-8RD56QubORWXk0cEJVcDZ3T2s/view?usp=sharing
 
-I wanna play with Dangerous Toys
-Dark needle with shooting gimmicks
-images/screenshots/dangeroustoys.png
-https://dl.orangedox.com/cEN9WsSjS4nzJRb86r
+way of the starlit sky
+Peaceful starlight spikes
+images/screenshots/starlitsky.png
+https://www.axfc.net/u/3663886
 
 indigo needle
 Chill hitbox player needle
 images/screenshots/indigoneedle.png
 http://www.mediafire.com/file/mpwo1c18w2axhw5/indigo_needle_%28with_dlls%29.zip
 
-I wanna be the Haru
-Japanese pop needle
-images/screenshots/haru.png
-http://www.mediafire.com/file/fp4xs22u4t07bc8/I+wanna+be+the+Haru.zip
+I wanna deride Kotaro- from aslant
+Needle in the style of Qoqoqo
+images/screenshots/deridekotaro.png
+http://www.mediafire.com/file/vazltm15dtxya90/I+wanna+deride+Kotaro-+from+aslant.zip
+
+EchoVision
+Needle with radar light
+images/screenshots/echovision.png
+https://www.dropbox.com/s/3nl30uv24a0npho/EchoVision.rar?dl=0
+
+I wanna go the JUN-G World
+Chill music and anime
+images/screenshots/jun-g.png
+http://www.mediafire.com/file/dwrnna01a9v4878/I_Wanna_go_the_JUN-G_World_Ver1.02.rar
+
+
+# Removed:
+
+#I wanna be the Haru
+#Japanese pop needle
+#images/screenshots/haru.png
+#http://www.mediafire.com/file/fp4xs22u4t07bc8/I+wanna+be+the+Haru.zip
+
+#I wanna play with Dangerous Toys
+#Dark needle with shooting gimmicks
+#images/screenshots/dangeroustoys.png
+#https://dl.orangedox.com/cEN9WsSjS4nzJRb86r
 
 %%%
 # Avoidance
@@ -108,8 +146,7 @@ http://www.mediafire.com/file/3vhqvxpwrdx3zj0/I_wanna_clear_the_Easy_Miku_2_Reup
 I wanna Struggle Momentarily
 Western style avoidance
 images/screenshots/strugglemomentarily.png
-http://www.mediafire.com/file/3jn91cqqld5hf9k/I+Wanna+Struggle+Momentarily.rar
-
+https://cwpat.me/gamefiles/I Wanna Struggle Momentarily.rar
 
 %%%
 # Trap
@@ -140,9 +177,20 @@ Traditional trap-focused game
 images/screenshots/gothetrapway.png
 http://www.mediafire.com/file/ntafax2iixnofb8/I+wanna+go+the+trap+way.rar
 
+I wanna have a happy valentine
+Lovely valentine trap game
+images/screenshots/happyvalentine.png
+http://www.mediafire.com/file/b5k8q4ww6zamfv5/I_wanna_have_a_happy_valentine_%255Bver1.3%255D.rar
+
+
 %%%
 # Challenge
 ##################
+
+I wanna reach the Moon
+A grand quest
+images/screenshots/moon.png
+http://www.mediafire.com/file/uk766lh316pncfj/I_wanna_reach_the_Moon.zip
 
 I wanna get Cultured
 Classic western medley
@@ -150,7 +198,7 @@ images/screenshots/getcultured.png
 http://www.mediafire.com/file/7dbvctkvd1idzxl/I+wanna+Get+Cultured+ver1.0.7.zip
 
 I wanna find my Destiny
-Truly epic adventure
+An epic adventure
 images/screenshots/findmydestiny.png
 http://www.mediafire.com/file/ehfm6tdy3c8334c/I+wanna+find+my+destiny+v1.01.rar
 
@@ -168,4 +216,9 @@ I wanna run the Marathon
 Popular video game worlds
 images/screenshots/runthemarathon.png
 http://cwpat.me/i-wanna-run-the-marathon-download
+
+Not Another VVVVVV Game
+An advvvvvventure
+images/screenshots/vvvvvv.png
+http://www.mediafire.com/file/nw8r8d2llqa708c/Not_Another_VVVVVV_Game_1.01.zip
 
