@@ -7,6 +7,11 @@ Conquer the 8 trials
 images/screenshots/octophobia.png
 http://www.mediafire.com/file/u9cnizvu3qvw22l/Octophobia_1.2_Reupload.zip
 
+I Wanna Defeat The Eater Of Dreams
+Abstract, atmospheric adventure
+images/screenshots/eaterofdreams.png
+https://mega.nz/#!rVxynQgC!kGROqOdaZoNcEIlXEuLmpES9OPV7Rso6yTw1hGp3NAI
+
 I wanna be the Dark Blue
 Introduction to many gimmicks
 images/screenshots/darkblue.png
@@ -31,11 +36,6 @@ I wanna be the Showdown
 Fangame inside a gameboy
 images/screenshots/showdown.png
 http://www.mediafire.com/file/wdp4c5ofblwm6l1/I_wanna_be_the_showdown_ver1.1_Reupload.zip
-
-I wanna go the Spook House
-Spooky halloween climb
-images/screenshots/spookhouse.png
-http://www.mediafire.com/file/hjxk1oxof121t8s/I+wanna+go+the+Spook+House.zip
 
 I wanna be the 8possible
 Gradual descent into madness
@@ -62,15 +62,49 @@ Winter themed adventure
 images/screenshots/lovethewinter2.png
 https://cwpat.me/gamefiles/beginner-reuploads/IWLTWinter2%20Reupload.zip
 
+I wanna get Freedom
+A concise adventure
+images/screenshots/getfreedom.png
+http://www.mediafire.com/file/4kykpt3oxws4w8j/I_wanna_get_Freedom.zip/file
+
+I wanna be the rain
+Regain your memories
+images/screenshots/rain.png
+https://cwpat.me/gamefiles/beginner-reuploads/I%20wanna%20be%20the%20rain[Ver.English]%20ver.1.1b.zip
+
 I wanna be the Machinary
 Short and very creative adventure
 images/screenshots/machinary.png
 https://cwpat.me/gamefiles/beginner-reuploads/I%20wanna%20be%20the%20Machinary%20Ver1.2%20Reupload.zip
 
+I wanna go the Spook House
+Spooky halloween climb
+images/screenshots/spookhouse.png
+http://www.mediafire.com/file/hjxk1oxof121t8s/I+wanna+go+the+Spook+House.zip
+
+We Live Under The Stairs
+Warning: dark and creepy
+images/screenshots/underthestairs.png
+https://www.dropbox.com/s/hksoc87tcnhhx1a/UnderTheStairs.zip?dl=0
 
 %%%
 # Needle
 ######################
+
+I Wanna Rely The Needle 4.2
+Glowy space needle
+images/screenshots/rely42.png
+https://cwpat.me/gamefiles/beginner-reuploads/I%20Wanna%20Rely%20The%20Needle%204.2.zip
+
+I wanna eat the lemon
+Cute easy needle
+images/screenshots/eatthelemon.png
+http://www.mediafire.com/file/bv5ytkr6vvmkh9u/I_wanna_eat_the_lemon.rar/file
+
+I wanna Limitless
+Neon needle
+images/screenshots/limitless.png
+http://www.mediafire.com/file/7pet89267heddpy/I_wanna_Limitless.rar/file
 
 I wanna be the Kaenbyou
 Chill touhou needle
@@ -86,11 +120,6 @@ way of the starlit sky
 Peaceful starlight spikes
 images/screenshots/starlitsky.png
 https://www.axfc.net/u/3663886
-
-indigo needle
-Chill hitbox player needle
-images/screenshots/indigoneedle.png
-http://www.mediafire.com/file/mpwo1c18w2axhw5/indigo_needle_%28with_dlls%29.zip
 
 I wanna deride Kotaro- from aslant
 Needle in the style of Qoqoqo
@@ -112,6 +141,11 @@ Pink needle with gimmicks
 images/screenshots/fleetingpink.png
 https://www.mediafire.com/file/54206hjs9qva6d8/pinke.zip/file
 
+indigo needle
+Chill hitbox player needle
+images/screenshots/indigoneedle.png
+http://www.mediafire.com/file/mpwo1c18w2axhw5/indigo_needle_%28with_dlls%29.zip
+
 
 # Removed:
 
@@ -128,15 +162,21 @@ https://www.mediafire.com/file/54206hjs9qva6d8/pinke.zip/file
 %%%
 # Avoidance
 #########################
-For My Valentine
-Romantic and epic
-images/screenshots/formyvalentine.png
-http://www.mediafire.com/file/sqkucklfxy5p1a8/For_my_Valentine_1.1_Reupload.zip
 
 I wanna use Snow Magic
 Cute and well-produced
 images/screenshots/snowmagic.png
 http://www.mediafire.com/file/wsx9os6fb599zgf/I_wanna_use_snow_magic_Reupload.zip
+
+I wanna Happy Mid-autumn Festival
+Beginner-targetted avoidance
+images/screenshots/hmaf.png
+http://www.mediafire.com/file/pvwulq3yykgvuhj/Happy_Mid-autumn_Festival.zip/file
+
+For My Valentine
+Romantic and epic
+images/screenshots/formyvalentine.png
+http://www.mediafire.com/file/sqkucklfxy5p1a8/For_my_Valentine_1.1_Reupload.zip
 
 I wanna eat the Rori girl
 Great easy avoidance
@@ -161,6 +201,16 @@ I wanna wanna
 :3
 images/screenshots/wannawanna.png
 http://www.mediafire.com/file/h46epjy4oljl3xo/I+wanna+wanna.zip
+
+3 traps in 1 room
+3 traps in 1 room
+images/screenshots/3traps.png
+http://www.mediafire.com/file/74fwxb7a82b4op0/3_traps_in_1_room.zip/file
+
+I wanna be the Poronkusema
+Trap adventure game
+images/screenshots/poronkusema.png
+http://www.mediafire.com/file/2sau9sejv33dgup/I_wanna_be_the_Poronkusema.zip/file
 
 I wanna eat the New Year!
 Cute hand drawn obstacles
@@ -187,6 +237,10 @@ Lovely valentine trap game
 images/screenshots/happyvalentine.png
 http://www.mediafire.com/file/b5k8q4ww6zamfv5/I_wanna_have_a_happy_valentine_%255Bver1.3%255D.rar
 
+I wanna SlimeTrap
+Puzzly inventive slime traps
+images/screenshots/slimetrap.png
+http://www.mediafire.com/file/f0bcxp3w87ez84q/I_wanna_SlimeTrap.zip/file
 
 %%%
 # Challenge
