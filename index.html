@@ -1,28 +1,133 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Beginner IWBTG Fangames</title>
+    <title>Recommended Beginner IWBTG Fangames</title>
     <meta charset="UTF-8">
     <meta name="description" content="A list of recommended easier IWBTG fangames for newcomers to play, separated by category.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css?asdf=4">
     <link rel="icon" type="image/png" href="images/favicon.png">
+    <style>
+
+
+* { margin: 0; padding: 0; }
+body {
+    font-family: "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+    /*-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; letter-spacing: 0.01em;*/
+    color:white;
+    background-color: #175145;
+    background-image: linear-gradient(#298875, #16483D);
+}
+
+a { color:white; }
+a:visited { color:white; }
+h1 { font-size:2.25em; margin-top:1.5em; margin-left:1em; }
+h2 { font-size: 1.75em; margin-bottom:0.5em; margin-top:1em; /*margin-top:1.5em; margin-bottom:0.5em;*/ }
+p { font-size: 1.1em; line-height: 1.25em; }
+p + p {margin: 1.25em 0 0;}
+li { font-size: 1.1em; line-height: 1.25em; }
+
+/* responsive iframe code from https://stackoverflow.com/questions/25302836/responsive-video-iframes-keeping-aspect-ratio-with-only-css */
+.video-wrapper { max-width:60em; margin:auto; }
+.video-wrapper2 { -moz-box-sizing:border-box; -webkit-box-sizing:border-box; position:relative; width:100%; height:0; padding-bottom:56.25%; }
+.video-wrapper2 iframe { position:absolute; width:100%; height:100%; left:0; top:0; }
+
+#wrapper { background-color: rgba(0, 0, 0, 0.35); margin: 0 auto; max-width: 75em; }
+
+#header { text-align:center; padding-bottom:1em; padding-top:1em; }
+#header img { display:inline-block; vertical-align:top; max-width:8em; }
+#header div { display:inline-block; }
+/*.top-shortcut { text-align: right; }*/
+
+.link { margin:0; font-size:1.1em; }
+.link a { display:inline-block; color:white; background-color:black; padding:0.4em; text-decoration:none; margin-bottom:0.3em; margin-right:0.15em; }
+.link a:hover{ background-color:gray; color:white; }
+.link a:visited{ color:white; }
+.link img { max-width:1.4em; max-height:1.4em; display:inline-block; margin-right:0.25em; position:absolute; }
+.link a span { margin-left:2em; }
+/*.links { padding-bottom:2em; }*/
+
+#content { padding-left:1.5em; padding-right:1.5em; }
+/*a { color: #4078cf; transition: color .1s linear; }
+    a:visited {color: #9740CF;}
+    a:hover {color: #CF4078;}*/
+
+.fader-container { margin: 2.5em -1.5em; width: calc(100% + 3em); }
+    .fader { float: left; padding-bottom: calc(33.33% * 19/25); position: relative; width: 33.33%; }
+    .fader:nth-child(3) { float: none; overflow: hidden; width: auto; }
+        .fader img { height: 100%; position: absolute; width: 100%; }
+            .fader img.active {z-index: 2;}
+            .fader img.inactive {z-index: 1;}
+
+.sprites-line { margin-top:2em; margin-bottom:1em; text-align: center; }
+    .sprites-line img + img { margin-left:4em; }
+    /*.sprites-line + p {margin: 1em 0 0;}*/
+
+.genre { width: auto; padding: 0.25em 0 }
+    .genre p { float: left; width: 70%; padding: 1.5em 5%; }
+    .genre img { float: left; width: 20%; }
+
+.clearboth { clear: both; }
+
+/*#footer { border-top: 1px solid white; padding: 0.5em; }*/
+
+/*
+#header { padding: 0.5em 1.5em 1.5em; }
+    h1 { font-size: 3em; }
+    .top-shortcut { text-align: right; }
+
+#content { padding: 0 1.5em 1.5em; }
+    h2 { font-size: 2em; margin: 1.5em 0 0.5em; }
+    p { font-size: 1.1em; line-height: 1.25em; }
+        p + p {margin-top: 1.25em;}
+    a { color: #4078cf; transition: color .1s linear; }
+        a:visited {color: #9740CF;}
+        a:hover {color: #CF4078;}
+
+    .clearboth {clear: both;}
+
+#footer { background-color: #E9E9E9; border-top: 1px solid black; padding: 0.5em; }
+*/
+
+    .games-container { margin: 0 -1.5em }
+
+    .game { float: left; text-align: center; width: 240px; height: 250px;}
+        .game a { display: inline-block; color: inherit; text-decoration: none; width: 100%; height: 100%; }
+        .game a:hover {background-color:rgba(255, 255, 255, 0.3); }
+        .game h3 { font-weight: normal; font-size: 1.25em; padding: 0.25em 0 0; }
+        .game h4 { font-weight: normal; padding-top: 0.25em; }
+        .game img { padding: 1em 0 0; }
+
+    .games-container + p { margin-top: 1.25em; }
+    p + .games-container { margin-top: 1.25em; }
+
+    </style>
   </head>
   <body>
     <div id="wrapper">
+
       <div id="header">
-        <div class="top-shortcut">
+        <img src="images/icon_big.png" alt="Beginner IWBTG fangames icon"/>
+        <!--<div class="top-shortcut">
           Short link: <a href="http://fangam.es/beginner">fangam.es/beginner</a>
+        </div>-->
+        <div>
+          <h1 id="Title">Recommended Beginner IWBTG Fangames</h1>
         </div>
-        <h1 id="Title">Recommended beginner IWBTG fangames</h1>
       </div>
+
       <div id="content">
-        <p>This page will hopefully recommend fun, easy I Wanna Be The Guy fangames to play if you haven't played any before! (<a href="https://cwpat.me/fangames-intro" target="_blank">What are IWBTG fangames?</a>)</p>
+        <p>This is a list of I Wanna Be The Guy fangame recommendations for new players. For an introduction and a big list of community links, visit the below link!</p>
+        <br/>
+        <div class="link"><a href="https://cwpat.me/fangames-intro"><img src="images/fangames_intro.png" alt="The Kid"/><span>Introduction to I Wanna Be The Guy Fangames</span></a></div>
 
-        <p>Be sure to extract the game's folder from the .zip into a "fangames" folder on your computer before playing, and keep each fangame in its own folder. The in-game controls are Shift to jump/select, Z to shoot, R to respawn, and Escape to quit. Also note that this page might be updated occasionally.</p>
+        <h2>Setup</h2>
+        <ul>
+          <li>Be sure to extract each game's zip into its own folder.</li>
+          <li>The default in-game controls are Shift to jump/select, Z to shoot, R to respawn, and Escape to quit. Some games have in-game control rebinding, but for the rest you'll have to use a program like JoyToKey if you want to rebind your controls.</li>
+        </ul>
 
-        <h2 id="Adventure-Gimmick">Adventure and gimmick</h2>
-        <p>To start, here are some general recommendations, many of which are classified as <b>adventure games</b> and/or <b>gimmick games</b>:</p>
+        <h2 id="Adventure-Gimmick">Adventure</h2>
+        <p><b>Adventure fangames</b> are generally well-rounded, with various themed areas and bosses.</p>
 
         <div class="games-container">
           <div class="game">
@@ -148,7 +253,7 @@
         </div>
 
         <h2 id="Needle">Needle</h2>
-        <p>If you're looking specifically for <b>needle games</b>, which focus on just intricate, precise spike jumps, here you go:</p>
+        <p><b>Needle fangames</b> focus on intricate, precise platforming with spikes and various mechanics.</p>
 
         <div class="games-container">
           <div class="game">
@@ -232,7 +337,7 @@
         </div>
 
         <h2 id="Avoidance">Avoidance</h2>
-        <p>If you're looking specifically for <b>avoidance games</b>, in which you dodge bullet barrages in sync with music, here you go:</p>
+        <p>In <b>avoidance fangames</b>, you dodge pattern and random bullet barrages in sync with music.</p>
 
         <div class="games-container">
           <div class="game">
@@ -281,7 +386,7 @@
         </div>
 
         <h2 id="Trap">Trap</h2>
-        <p>If you're looking specifically for <b>trap or "troll" games</b>, which are overloaded with clever and funny traps, here you go:</p>
+        <p><b>Trap or "troll" fangames</b> are loaded with funny and clever traps.</p>
         <div class="games-container">
           <div class="game">
             <a href="http://www.mediafire.com/file/h46epjy4oljl3xo/I+wanna+wanna.zip" target="_blank">
@@ -350,7 +455,7 @@
         </div>
 
         <h2 id="Challenge">Challenge</h2>
-        <p>If you would enjoy starting with very challenging games (most people don't), or you have some fangame experience built up, here you go:</p>
+        <p>These games are high-quality but also more challenging. You can attempt them after you have a bit of experience and/or want more of a challenge.</p>
         <div class="games-container">
           <div class="game">
             <a href="http://www.mediafire.com/file/uk766lh316pncfj/I_wanna_reach_the_Moon.zip" target="_blank">
@@ -404,23 +509,32 @@
           <div class="clearboth"></div>
         </div>
 
-        <h2 id="Further-Recommendations">Recommendations beyond this page</h2>
-        <p>This page is only a starting point; there are so many fangames to discover! Here are a few ways to find more fangames:</p>
-        <p>
-          - Check out curated lists by <a href="http://www.tinyurl.com/geezerslist" target="_blank">Geezer</a>, <a href="http://tinyurl.com/lgeymuu" target="_blank">Sunbla & Zero</a>,  <a href="http://www.iwannacommunity.com/forum/index.php?topic=199.0" target="_blank">Paragus</a>, <a href="https://docs.google.com/spreadsheet/ccc?key=0Ai5kGaEf_4pidE5NNklnR2VPMUZEbklDeGNldnRGQmc&usp=sharing" target="_blank">Denferok</a>, <a href="https://docs.google.com/spreadsheets/d/1QG6OskO5wpjnLqcCeVz2JiJ-l_kuUVwL-cZeVXUXezw/edit?usp=sharing">Inferno</a>.
-          <br>
-          - Browse <a href="http://delicious-fruit.com/" target="_blank">Delicious Fruit</a> and search by rating, difficulty, tags, and more.
-          <br>
-          - Ask friends in the community for recommendations based on what you like.
-        </p>
+        <h2 id="Further-Recommendations">Further Recommendations</h2>
+          <p>This page is only a starting point; there are so many fangames out there to discover!</p>
+          <p>In addition to the list on this page, also check out these curated lists by various community members:</p>
+          <br/>
+          <div class="link"><a href="http://www.tinyurl.com/geezerslist"><img src="images/favorites.png" alt="Favorites icon"/><span>Geezer's fangame list</span></a></div>
+          <div class="link"><a href="http://tinyurl.com/lgeymuu"><img src="images/favorites.png" alt="Favorites icon"/><span>Sunbla and Zero's recommended list</span></a></div>
+          <div class="link"><a href="https://docs.google.com/spreadsheets/d/1XBMeBJnDFgL8vwx-pyIEMRtrzDOLc3O6VyWKVRhKyt8/edit#gid=0"><img src="images/favorites.png" alt="Favorites icon"/><span>Paragus's favorites list</span></a></div>
+          <div class="link"><a href="https://docs.google.com/spreadsheet/ccc?key=0Ai5kGaEf_4pidE5NNklnR2VPMUZEbklDeGNldnRGQmc&usp=sharing"><img src="images/favorites.png" alt="Favorites icon"/><span>Denferok's recommended list</span></a></div>
+          <div class="link"><a href="https://docs.google.com/spreadsheets/d/1QG6OskO5wpjnLqcCeVz2JiJ-l_kuUVwL-cZeVXUXezw/edit?usp=sharing"><img src="images/favorites.png" alt="Favorites icon"/><span>Chatran's fangame list</span></a></div>
+          <br/>
+          <p>You can also search for games by rating, difficulty, tags, and more on Delicious Fruit:</p>
+          <br/>
+          <div class="link"><a href="https://delicious-fruit.com/ratings/advanced_search.php"><img src="images/cherry.gif" alt="Delicious Fruit logo"/><span>Delicious Fruit Advanced Search</span></a></div>
+          <br/>
+          <p>And you can ask for more personalized recommendations in the I Wanna Community Discord:</p>
+          <br/>
+          <div class="link"><a href="https://discord.gg/SjpjuaH"><img src="images/discord.png" alt="Discord logo"/><span>I Wanna Community Discord</span></a></div>
 
-        <h2 id="Closing">In closing</h2>
-        <p>I hope this page helps you pick good first fangames! If you want to read more about fangames and the community, check out the <a href="https://cwpat.me/fangames-intro" target="_blank">overview page</a>! And if you have any suggestions for this page please tell me! I'm Patrick no. 0303 on Discord and Clockworkpat on Twitter.</p>
+          <br/>
+          <br/>
+          <br/>
+          <p>Thanks to shign for additional game suggestions.</p>
+          <br/>
+          <p>If you have any ideas for how to improve this page, such as games that could be added or removed, or any other kind of changes, please let me know! :) I'm Patrick # 0303 on Discord, and also have <a href="https://twitter.com/clockworkpat">Twitter</a> and <a href="mailto:patrickjtraynor@gmail.com">Email</a>.</p>
+          <br/>
 
-      </div>
-
-      <div id="footer">
-        By <a href="https://www.twitter.com/clockworkpat" target="_blank">Patrickgh3</a> 2017. Additional suggestions by shign.
       </div>
 
     </div><!-- id=wrapper -->
