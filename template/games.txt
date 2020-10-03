@@ -248,6 +248,35 @@ images/screenshots/slimetrap.png
 http://www.mediafire.com/file/f0bcxp3w87ez84q/I_wanna_SlimeTrap.zip/file
 
 %%%
+# Puzzle
+##################
+
+I Wanna Ponder
+Variety of puzzles integrated with platforming
+images/screenshots/ponder.png
+https://drive.google.com/open?id=1myEhwECG4Z_zO6Zm_1vUnoEMy5ZxHSOa
+
+SlimePark
+Cute multicolored slime puzzles
+images/screenshots/slimepark.png
+https://www.mediafire.com/file/9i1ciilt6kroqwf/SlimePark_ver1.00.zip/file
+
+I wanna solve color puzzle
+Minimalist, quality puzzles
+images/screenshots/colorpuzzle.png
+http://www.mediafire.com/file/do3vt8gm1lymfri/I_wanna_solve_color_puzzle_ver1.0.zip/file
+
+I wanna Design
+Spike transformation puzzles
+images/screenshots/design.png
+http://www.mediafire.com/file/r9apcdpr21tsvek/I_wanna_design.zip/file
+
+I wanna KeyPick 100
+Extreme key-lock puzzles
+images/screenshots/keypick100.png
+http://www.mediafire.com/file/3y6698ucei646cg/I+wanna+KeyPick+100+Ver1.01.zip
+
+%%%
 # Challenge
 ##################
 
