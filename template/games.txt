@@ -276,6 +276,11 @@ Creative traps and a boss
 images/screenshots/reiwa.png
 http://www.mediafire.com/file/qyt73wvti9ov4hf/%25E4%25BB%25A4%25E5%2592%258C%25E3%2583%258A.zip/file
 
+I wanna T.R.A.P.
+Classic fangame humor
+images/screenshots/t-r-a-p.png
+http://www.mediafire.com/file/9kbsgrpneho8qdp/I_Wanna_T.R.A.P._v1.1.rar/file
+
 %%%
 # Puzzle
 ##################
