@@ -92,6 +92,16 @@ Warning: dark and creepy
 images/screenshots/underthestairs.png
 https://www.dropbox.com/s/hksoc87tcnhhx1a/UnderTheStairs.zip?dl=0
 
+I wanna get the Rainbow feather
+Chill aventure game
+images/screenshots/rainbowfeather.png
+https://www.mediafire.com/file/ua45tf88ar854xx/I_wanna_get_the_rainbow_feather_ver1.02.zip/file
+
+I wanna help the Fairy tale
+7 fantasy-themed stages
+images/screenshots/fairytale.png
+https://www.mediafire.com/file/9f2x62zlz2agqzx/I_wanna_help_the_fairy_tale_Reupload.zip/file
+
 %%%
 # Needle
 ######################
@@ -146,6 +156,15 @@ Chill hitbox player needle
 images/screenshots/indigoneedle.png
 http://www.mediafire.com/file/mpwo1c18w2axhw5/indigo_needle_%28with_dlls%29.zip
 
+I wanna Keep Celebrating for Xia
+2 stage collab game
+images/screenshots/xia.png
+http://www.mediafire.com/file/km3ijdex85psf9f/I_wanna_Keep_Celebrating_for_Xia.zip/file
+
+Stars
+Beginner-oriented needle game
+images/screenshots/stars.png
+http://www.mediafire.com/file/kbrnl9qp9w3l4sm/Stars.rar/file
 
 # Removed:
 
@@ -246,6 +265,16 @@ I wanna SlimeTrap
 Puzzly inventive slime traps
 images/screenshots/slimetrap.png
 http://www.mediafire.com/file/f0bcxp3w87ez84q/I_wanna_SlimeTrap.zip/file
+
+I wanna Little Trap
+Short but creative trap game
+images/screenshots/littletrap.png
+http://www.mediafire.com/file/8z4rrfqmmzj3j6z/I_wanna_Little_Trap.zip/file
+
+令和ナ
+Creative traps and a boss
+images/screenshots/reiwa.png
+http://www.mediafire.com/file/qyt73wvti9ov4hf/%25E4%25BB%25A4%25E5%2592%258C%25E3%2583%258A.zip/file
 
 %%%
 # Puzzle
