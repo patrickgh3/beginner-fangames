@@ -256,10 +256,11 @@ Traditional trap-focused game
 images/screenshots/gothetrapway.png
 http://www.mediafire.com/file/ntafax2iixnofb8/I+wanna+go+the+trap+way.rar
 
-I wanna have a happy valentine
-Lovely valentine trap game
-images/screenshots/happyvalentine.png
-http://www.mediafire.com/file/b5k8q4ww6zamfv5/I_wanna_have_a_happy_valentine_%255Bver1.3%255D.rar
+# download was removed
+#I wanna have a happy valentine
+#Lovely valentine trap game
+#images/screenshots/happyvalentine.png
+#http://www.mediafire.com/file/b5k8q4ww6zamfv5/I_wanna_have_a_happy_valentine_%255Bver1.3%255D.rar
 
 I wanna SlimeTrap
 Puzzly inventive slime traps
