@@ -355,3 +355,17 @@ Full-length Metroidvania-style game
 images/screenshots/overlord.png
 http://www.mediafire.com/file/gcqdmatcayfdxy6/I_wanna_be_the_overlord_v1.3%2528Update%2529.rar/file
 
+I wanna stop the Heart Beats
+Old-school fangame vibes with modern quality
+images/screenshots/heartbeats.png
+https://sites.google.com/view/i-wanna-tonkotsu
+
+%%%
+# I Wanna Maker
+##################
+
+I Wanna Maker
+Online level making and sharing
+images/screenshots/maker.png
+https://store.steampowered.com/app/1114940/I_Wanna_Maker/
+
