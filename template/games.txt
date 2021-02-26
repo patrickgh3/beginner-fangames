@@ -102,24 +102,39 @@ I wanna help the Fairy tale
 images/screenshots/fairytale.png
 https://www.mediafire.com/file/9f2x62zlz2agqzx/I_wanna_help_the_fairy_tale_Reupload.zip/file
 
+Panasonic Bluray
+Needleventure with modern touches
+images/screenshots/panasonic.png
+https://k1ttygame.itch.io/panasonic-bluray
+
 %%%
 # Needle
 ######################
 
-I Wanna Rely The Needle 4.2
-Glowy space needle
-images/screenshots/rely42.png
-https://cwpat.me/gamefiles/beginner-reuploads/I%20Wanna%20Rely%20The%20Needle%204.2.zip
+Stars
+Beginner-oriented needle game
+images/screenshots/stars.png
+http://www.mediafire.com/file/kbrnl9qp9w3l4sm/Stars.rar/file
+
+I Wanna Be The Dreamroamer
+Easier needle with gimmicks
+images/screenshots/dreamroamer.png
+https://www.mediafire.com/file/j791a63f4kftg9v/I_Wanna_Be_The_Dreamroamer.zip/file
+
+I wanna Limitless
+Neon needle
+images/screenshots/limitless.png
+http://www.mediafire.com/file/7pet89267heddpy/I_wanna_Limitless.rar/file
 
 I wanna eat the lemon
 Cute easy needle
 images/screenshots/eatthelemon.png
 http://www.mediafire.com/file/bv5ytkr6vvmkh9u/I_wanna_eat_the_lemon.rar/file
 
-I wanna Limitless
-Neon needle
-images/screenshots/limitless.png
-http://www.mediafire.com/file/7pet89267heddpy/I_wanna_Limitless.rar/file
+I Wanna Rely The Needle 4.2
+Glowy space needle
+images/screenshots/rely42.png
+https://cwpat.me/gamefiles/beginner-reuploads/I%20Wanna%20Rely%20The%20Needle%204.2.zip
 
 I wanna be the Kaenbyou
 Chill touhou needle
@@ -160,11 +175,6 @@ I wanna Keep Celebrating for Xia
 2 stage collab game
 images/screenshots/xia.png
 http://www.mediafire.com/file/km3ijdex85psf9f/I_wanna_Keep_Celebrating_for_Xia.zip/file
-
-Stars
-Beginner-oriented needle game
-images/screenshots/stars.png
-http://www.mediafire.com/file/kbrnl9qp9w3l4sm/Stars.rar/file
 
 # Removed:
 
