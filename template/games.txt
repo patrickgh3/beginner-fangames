@@ -102,11 +102,6 @@ I wanna help the Fairy tale
 images/screenshots/fairytale.png
 https://www.mediafire.com/file/9f2x62zlz2agqzx/I_wanna_help_the_fairy_tale_Reupload.zip/file
 
-Panasonic Bluray
-Needleventure with modern touches
-images/screenshots/panasonic.png
-https://k1ttygame.itch.io/panasonic-bluray
-
 %%%
 # Needle
 ######################
@@ -369,6 +364,11 @@ I wanna stop the Heart Beats
 Old-school fangame vibes with modern quality
 images/screenshots/heartbeats.png
 https://sites.google.com/view/i-wanna-tonkotsu
+
+Panasonic Bluray
+Needleventure with modern touches
+images/screenshots/panasonic.png
+https://k1ttygame.itch.io/panasonic-bluray
 
 %%%
 # I Wanna Maker
