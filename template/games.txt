@@ -102,6 +102,11 @@ I wanna help the Fairy tale
 images/screenshots/fairytale.png
 https://www.mediafire.com/file/9f2x62zlz2agqzx/I_wanna_help_the_fairy_tale_Reupload.zip/file
 
+I Wanna Find A Test Player
+Comedy about playtesting fangames
+images/screenshots/testplayer.png
+https://www.mediafire.com/download/44dmcsd03cum6sb/I+Wanna+Find+A+Test+Player.zip
+
 %%%
 # Needle
 ######################
@@ -110,11 +115,6 @@ Stars
 Beginner-oriented needle game
 images/screenshots/stars.png
 http://www.mediafire.com/file/kbrnl9qp9w3l4sm/Stars.rar/file
-
-I Wanna Be The Dreamroamer
-Easier needle with gimmicks
-images/screenshots/dreamroamer.png
-https://www.mediafire.com/file/j791a63f4kftg9v/I_Wanna_Be_The_Dreamroamer.zip/file
 
 I wanna Limitless
 Neon needle
@@ -176,6 +176,11 @@ I wanna Keep Celebrating for Xia
 images/screenshots/xia.png
 http://www.mediafire.com/file/km3ijdex85psf9f/I_wanna_Keep_Celebrating_for_Xia.zip/file
 
+I Wanna Be The Dreamroamer
+Sleepy needle with gimmicks
+images/screenshots/dreamroamer.png
+https://www.mediafire.com/file/j791a63f4kftg9v/I_Wanna_Be_The_Dreamroamer.zip/file
+
 # Removed:
 
 #I wanna be the Haru
@@ -226,6 +231,11 @@ I wanna Struggle Momentarily
 Western style avoidance
 images/screenshots/strugglemomentarily.png
 https://cwpat.me/gamefiles/beginner-reuploads/I Wanna Struggle Momentarily.rar
+
+I Wanna Defeat The Munimson
+Crimson-style boss (technically not an avoidance)
+images/screenshots/munimson.png
+https://www.dropbox.com/s/3ja3phnz424ujbj/I%20Wanna%20Defeat%20The%20Munimson%20ver2.0.zip?dl=0
 
 %%%
 # Trap
@@ -374,6 +384,16 @@ Panasonic Bluray
 Needleventure with modern touches
 images/screenshots/panasonic.png
 https://k1ttygame.itch.io/panasonic-bluray
+
+I Wanna Kill The BLB 2: Nemesis Tamatou
+Wacky adventure with memes
+images/screenshots/blb2.png
+https://www.dropbox.com/s/ewqludsmgz1xbgs/Nemesis%20Tamatou%20V1.200.zip?dl=1
+
+I Wanna Spook Jam
+Halloween-themed collab game
+images/screenshots/spookjam.png
+https://cwpat.me/i-wanna-spook-jam-download
 
 %%%
 # I Wanna Maker
