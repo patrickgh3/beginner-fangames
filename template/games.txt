@@ -395,6 +395,11 @@ Halloween-themed collab game
 images/screenshots/spookjam.png
 https://cwpat.me/i-wanna-spook-jam-download
 
+I Wanna Duloxetine
+Smooth challenging needle
+images/screenshots/duloxetine.png
+https://www.mediafire.com/file/7ihnn2c0zvp1rvv/I+Wanna+Duloxetine.zip/file
+
 %%%
 # I Wanna Maker
 ##################
