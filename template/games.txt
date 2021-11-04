@@ -107,10 +107,10 @@ Classic old-school adventure
 images/screenshots/enjoythegame2.png
 https://www.mediafire.com/file/ps31aqkvkqa08li/enjoy_the_game2_ver1.01.zip/file
 
-I Wanna Find A Test Player
-Comedy about playtesting fangames
-images/screenshots/testplayer.png
-https://www.mediafire.com/download/44dmcsd03cum6sb/I+Wanna+Find+A+Test+Player.zip
+#I Wanna Find A Test Player
+#Comedy about playtesting fangames
+#images/screenshots/testplayer.png
+#https://www.mediafire.com/download/44dmcsd03cum6sb/I+Wanna+Find+A+Test+Player.zip
 
 %%%
 # Needle
@@ -237,10 +237,10 @@ Western style avoidance
 images/screenshots/strugglemomentarily.png
 https://cwpat.me/gamefiles/beginner-reuploads/I Wanna Struggle Momentarily.rar
 
-I Wanna Defeat The Munimson
-Crimson-style boss (technically not an avoidance)
-images/screenshots/munimson.png
-https://www.dropbox.com/s/3ja3phnz424ujbj/I%20Wanna%20Defeat%20The%20Munimson%20ver2.0.zip?dl=0
+#I Wanna Defeat The Munimson
+#Crimson-style boss (technically not an avoidance)
+#images/screenshots/munimson.png
+#https://www.dropbox.com/s/3ja3phnz424ujbj/I%20Wanna%20Defeat%20The%20Munimson%20ver2.0.zip?dl=0
 
 %%%
 # Trap
@@ -383,7 +383,7 @@ http://www.mediafire.com/file/gcqdmatcayfdxy6/I_wanna_be_the_overlord_v1.3%2528U
 I wanna stop the Heart Beats
 Old-school fangame vibes with modern quality
 images/screenshots/heartbeats.png
-https://drive.google.com/file/d/1rU4gpnTgjXOMGLn3GAL3twxNZ9gSHJPg/view
+https://drive.google.com/file/d/1EXn383LFwAy9la2Nnq8MSvTVuQpDja5p/view
 
 Panasonic Bluray
 Needleventure with modern touches
