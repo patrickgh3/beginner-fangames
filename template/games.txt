@@ -1,4 +1,14 @@
 %%%
+# IWBTG
+###########################
+
+IWBTG Remastered
+The original game, remastered (warning: difficult!)
+images/screenshots/iwbtgr.png
+https://cherry-treehouse.itch.io/iwbtgr
+
+
+%%%
 # Adventure / Gimmick
 ###########################
 
@@ -206,6 +216,11 @@ https://www.mediafire.com/file/j791a63f4kftg9v/I_Wanna_Be_The_Dreamroamer.zip/fi
 %%%
 # Avoidance
 #########################
+
+I wanna hear Okurimono Sunday
+Cute beginner-oriented avoidance
+images/screenshots/sunday.png
+https://www.mediafire.com/file/hlid5pcr6voy29l/I+wanna+hear+Okurimono+Sunday.zip/file
 
 I wanna use Snow Magic
 Cute and well-produced
