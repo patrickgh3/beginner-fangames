@@ -360,11 +360,6 @@ A grand quest
 images/screenshots/moon.png
 http://www.mediafire.com/file/uk766lh316pncfj/I_wanna_reach_the_Moon.zip
 
-I wanna get Cultured
-Classic western medley
-images/screenshots/getcultured.png
-http://www.mediafire.com/file/7dbvctkvd1idzxl/I+wanna+Get+Cultured+ver1.0.7.zip
-
 I wanna find my Destiny
 An epic adventure
 images/screenshots/findmydestiny.png
@@ -379,6 +374,11 @@ I wanna kill the Guy
 Old-school classic
 images/screenshots/killtheguy.png
 http://www.mediafire.com/file/mzs1u7npic9ch3u/IWKTG+v.052.zip
+
+I Wanna Escape Heavenly Host
+Explore a mysterious mansion
+images/screenshots/heavenlyhost.png
+https://www.mediafire.com/file/67h7gfz9jgqert2/I_Wanna_Escape_Heavenly_Host.zip/file
 
 I wanna run the Marathon
 Popular video game worlds
@@ -414,6 +414,11 @@ I Wanna Spook Jam
 Halloween-themed collab game
 images/screenshots/spookjam.png
 https://cwpat.me/i-wanna-spook-jam-download
+
+I wanna get Cultured
+Classic western medley
+images/screenshots/getcultured.png
+http://www.mediafire.com/file/7dbvctkvd1idzxl/I+wanna+Get+Cultured+ver1.0.7.zip
 
 I Wanna Duloxetine
 Smooth challenging needle
