@@ -22,6 +22,11 @@ Abstract, atmospheric adventure
 images/screenshots/eaterofdreams.png
 https://mega.nz/#!rVxynQgC!kGROqOdaZoNcEIlXEuLmpES9OPV7Rso6yTw1hGp3NAI
 
+Chungo's Gauntlet
+Excellently-produced meme fest
+images/screenshots/chungo.png
+https://jane-chef.itch.io/chungos-gauntlet
+
 I wanna be the Dark Blue
 Introduction to many gimmicks
 images/screenshots/darkblue.png
